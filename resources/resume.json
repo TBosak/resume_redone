@@ -1,0 +1,216 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Timothy M. Barani",
+    "label": "Software Engineer | Angular 8+, .NET",
+    "image": "",
+    "email": "timb63701@gmail.com",
+    "phone": "5732256518",
+    "url": "https://timbarani.com",
+    "summary": "Software Engineer with a degree in Political Science and a minor in Art, combining technical expertise with a human-centered approach. Experienced in developing healthcare technology solutions, enhancing authentication systems, and delivering data-driven applications that improve organizational efficiency. Previously recognized in social services roles for creating innovative tools and promoting better outcomes through thoughtful planning and support. A multipotentialite with a diverse background, I thrive on continuous learning, creative problem-solving, and building solutions that are both technically sound and people-focused.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "tbarani",
+        "url": "https://www.linkedin.com/in/tbarani/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Vizient, Inc",
+      "position": "Software Engineer",
+      "startDate": "2019-12-31",
+      "endDate": "2025-09-30",
+      "highlights": [],
+      "summary": "Building and maintaining applications with the purpose of improving efficiency in health care administration, logistics, analytics, etc.\n\nAngular 8+, .NET, MSSQL Server, Pulumi/Azure/Jenkins/Octopus CI/CD. \nPaired TDD, a mix of XP, Kanban, and Scrum.",
+      "url": "https://www.linkedin.com/company/166796",
+      "location": "Cape Girardeau, Missouri"
+    },
+    {
+      "name": "Catholic Charities of Southern Missouri",
+      "position": "Support Coordinator DD",
+      "startDate": "2018-12-31",
+      "endDate": "2019-12-31",
+      "highlights": [],
+      "summary": "DMH-contracted targeted case management for individuals with developmental disabilities. Helping to establish services for those individuals with provider agencies. Reviewing those services to ensure that the individuals’ needs are being fulfilled, and that services adhere to state guidelines and quality outcomes.",
+      "url": "https://www.linkedin.com/company/3567296",
+      "location": "Cape Girardeau, Missouri"
+    },
+    {
+      "name": "Grace Reliant Health Services, LLC",
+      "position": "Primary Staff",
+      "startDate": "2015-08-31",
+      "endDate": "2018-12-31",
+      "highlights": [],
+      "summary": "Overseeing a group of direct support professionals providing care for consumers with developmental disabilities. Serving as an on-call emergency contact for multiple DMH homes. Managing consumer records, appointments, and funds. Assisting consumers with personal tasks, such as transportation, meal preparation, housekeeping, medication administration, and other routine care and upkeep. Fostering consumer independence in lifestyle management skills.",
+      "url": "https://www.linkedin.com/company/3856997",
+      "location": "Cape Girardeau, Missouri"
+    },
+    {
+      "name": "Consumer Direct",
+      "position": "Support Staff",
+      "startDate": "2014-07-31",
+      "endDate": "2015-08-31",
+      "highlights": [],
+      "summary": "Routinely assisting consumers with developmental disabilities, maintaining consumers'​ personal care, transporting consumers, encouraging healthy lifestyle choices, maintaining proper sanitation, housekeeping, meal preparation, medication administration, and extensive record keeping.",
+      "url": "https://www.linkedin.com/company/2341258",
+      "location": "Cape Girardeau, MO"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Humane Society of Southeast Missouri",
+      "position": "Volunteer/Foster",
+      "startDate": "2018-04-30",
+      "endDate": "",
+      "summary": "For more information on how you can help out: https://semopets.org/get-involved/",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Southeast Missouri State University",
+      "area": "Political Science",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2008-12-31",
+      "endDate": "2014-12-31",
+      "score": "Graduated",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPR AED",
+      "issuer": "American Heart Association | American Stroke Association",
+      "startDate": "2014-06-30"
+    },
+    {
+      "name": "Level 1 Medication Aide",
+      "issuer": "State of Missouri",
+      "startDate": "2015-07-31"
+    },
+    {
+      "name": "ProFirstAid",
+      "issuer": "ProTrainings",
+      "startDate": "2015-08-31"
+    },
+    {
+      "name": "Crisis Prevention Certification",
+      "issuer": "Crisis Prevention Institute",
+      "startDate": "2017-05-31"
+    },
+    {
+      "name": "Community Emergency Response Team",
+      "issuer": "FEMA"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Identity Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "T-SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET Framework/Core",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databricks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-End Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Okta",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data-driven Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pulumi",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "projects": [
+    {
+      "name": "Mkfd",
+      "startDate": "",
+      "summary": "RSS feed builder created with Bun and Hono - builds from webpages, email folders, and REST API calls.",
+      "url": "https://github.com/TBosak/mkfd"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

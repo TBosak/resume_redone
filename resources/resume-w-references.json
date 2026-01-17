@@ -1,0 +1,388 @@
+{
+  "awards": [],
+  "basics": {
+    "email": "",
+    "label": "Software Engineer | Angular 8+, .NET",
+    "location": {
+      "city": "Cape Girardeau",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "Missouri"
+    },
+    "name": "Timothy M. Barani",
+    "phone": "",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/tbarani/",
+        "username": "tbarani"
+      }
+    ],
+    "summary": "Software Engineer experienced in building scalable, human-centered applications. Skilled in developing healthcare technology solutions, strengthening authentication systems, and delivering data-driven applications that improve organizational efficiency. Recognized for creating innovative tools that streamline workflows and enhance outcomes. I thrive on continuous learning, creative problem-solving, and building solutions that are both technically sound and people-focused.",
+    "url": "https://www.linkedin.com/in/tbarani/"
+  },
+  "certificates": [
+    {
+      "date": "Issued Oct 2024",
+      "issuer": "LinkedIn",
+      "name": "Fundamentals of Agentic AI: Business Implications and Ethical Insights"
+    },
+    {
+      "date": "Issued Mar 2024",
+      "issuer": "LinkedIn",
+      "name": "Artificial Intelligence Case Studies in Different Business Industries"
+    },
+    {
+      "date": "Issued Mar 2024",
+      "issuer": "LinkedIn",
+      "name": "WebSocket Communications with Node and Angular"
+    },
+    {
+      "date": "Issued Jan 2024",
+      "issuer": "LinkedIn",
+      "name": "Advanced Node.js"
+    },
+    {
+      "date": "Issued Sep 2019",
+      "issuer": "LinkedIn",
+      "name": "AI Accountability Essential Training"
+    },
+    {
+      "date": "Issued Sep 2019",
+      "issuer": "LinkedIn",
+      "name": "Learning REST APIs"
+    },
+    {
+      "date": "Issued Sep 2019",
+      "issuer": "LinkedIn",
+      "name": "UX Design: 3 Creating Personas"
+    },
+    {
+      "date": "Issued Aug 2019",
+      "issuer": "LinkedIn",
+      "name": "Agile Software Development"
+    },
+    {
+      "date": "Issued Aug 2019",
+      "issuer": "LinkedIn",
+      "name": "Planning a Career in User Experience"
+    },
+    {
+      "date": "Issued Aug 2019",
+      "issuer": "LinkedIn",
+      "name": "Scrum: Advanced"
+    },
+    {
+      "date": "Issued Aug 2019",
+      "issuer": "LinkedIn",
+      "name": "Scrum: The Basics"
+    },
+    {
+      "date": "Issued Aug 2019",
+      "issuer": "LinkedIn",
+      "name": "UX Design: 1 Overview"
+    },
+    {
+      "date": "Issued Aug 2019",
+      "issuer": "LinkedIn",
+      "name": "UX Design: 2 Analyzing User Data"
+    },
+    {
+      "date": "Issued May 2017",
+      "issuer": "Crisis Prevention Institute",
+      "name": "Crisis Prevention Certification"
+    },
+    {
+      "date": "Issued Aug 2015",
+      "issuer": "ProTrainings",
+      "name": "ProFirstAid"
+    },
+    {
+      "date": "Issued Jul 2015",
+      "issuer": "State of Missouri",
+      "name": "Level 1 Medication Aide"
+    },
+    {
+      "date": "Issued Jun 2014",
+      "issuer": "American Heart Association",
+      "name": "CPR AED"
+    },
+    {
+      "issuer": "FEMA",
+      "name": "Community Emergency Response Team"
+    }
+  ],
+  "education": [
+    {
+      "area": "Political Science",
+      "endDate": "",
+      "institution": "Southeast Missouri State University",
+      "startDate": "",
+      "studyType": "Bachelor's Degree"
+    }
+  ],
+  "interests": [],
+  "languages": [
+    {
+      "fluency": "Native or bilingual proficiency",
+      "language": "English"
+    },
+    {
+      "fluency": "Limited working proficiency",
+      "language": "Spanish"
+    }
+  ],
+  "projects": [],
+  "publications": [],
+  "references": [
+    {
+      "name": "Andrew Dickins, ACSPO",
+      "reference": "I had the pleasure of working with Tim as the PO for a claims data product that analyzed physician referral patterns for healthcare organizations. Tim was an exceptional developer who provided knowledgeable insights and ideas to help solve complex problems on our team. His dependability and ability to deliver quality code with reliable results helped contribute to the success of our product and to the satisfaction of our customers. Tim has a great attitude towards his work and is always thinking ahead to reduce future tech debt and provide additional value outside of original scope. Tim would be a great addition to any team looking for a solid full stack developer who is thoughtful, reliable and dedicated to creating valuable and engaging technology that helps people."
+    },
+    {
+      "name": "Tara Gallagher",
+      "reference": "I had the pleasure of working closely with Tim, and he consistently stood out as a collaborative, thoughtful, and reliable team member. His ability to build strong, working relationships across product and engineering teams made a real impact on our ability to deliver features that not only me technical requirements but also resonated with customer needs.I strongly recommend him and any team would be lucky to have him."
+    },
+    {
+      "name": "Trey Westrich",
+      "reference": "Tim is a badass software developer.I worked with him for several years at Vizient on a team supporting the complicated authorization and authentication system that was in place. He was instrumental in helping to migrate some legacy systems into longer lived and modern applications, and a huge asset when it came to front end development.He is a passionate and talented engineer, always pursuing new projects outside of his employment, including an RSS feed builder, browser extensions, and a front end framework capable of back end hosting as well."
+    },
+    {
+      "name": "Ryan Lee",
+      "reference": "Tim came to my team from another in the company and immediately jumped in to help the new team. He leveraged his skill set to round out the team while sharing and picking up new skills from others. His teammates always had positive things to say about working with him, and I myself had the opportunity to learn about new tooling from him. His work directly contributed to our ability to deliver a new product for the company on time and within budget."
+    },
+    {
+      "name": "Deborah Igaba",
+      "reference": "I’ve had the pleasure of working with Timothy, and one thing that truly stands out is how he consistently goes above and beyond. He has a unique ability to identify everyday challenges developers face and creates practical solutions that make a lasting impact. For example, to this day I still use his batch file to automatically map drives, a simple yet powerful tool that continues to save time and effort.Timothy is not only diligent but also deeply committed to helping others succeed. He constantly makes time to build side projects that provide real value to the developer community. His resourcefulness, dedication, and willingness to share knowledge make him an invaluable teammate.I highly recommend Timothy to any team or organization looking for someone who is both innovative and dependable."
+    },
+    {
+      "name": "Codie Orberson",
+      "reference": "I had the pleasure of working with Tim on the SSO team at Vizient, where he quickly became our go-to expert in frontend development. He demonstrated outstanding technical skill, especially in upgrading several large projects through 8+ major Angular version updates. Throughout those upgrades, he refactored all associated Karma and Cypress unit tests, ensuring the applications stayed reliable. Tim consistently brought innovation to the table through side projects that tackled real-world challenges. Working with him directly through pair programming, I saw firsthand his collaborative nature.I strongly recommend Tim for any role that requires a skilled and collaborative frontend developer who can lead projects through complex technical challenges."
+    },
+    {
+      "name": "Sapna Panwar-Solanki",
+      "reference": "I had a great experience working with Tim. He is very knowledgeable, dedicated, and always willing to help his teammates, which made him a real asset to our team.Tim worked on several important projects, including major Angular upgrades and building custom filter components, as well as leading the Okta authentication integration for Sg2. His technical skills and helping nature stood out, and I truly enjoyed collaborating with him.I highly recommend Tim to any team looking for a skilled and supportive developer."
+    },
+    {
+      "name": "Gina Blocker",
+      "reference": "Tim is very professional and dedicated to his role.  Tim is very knowledgeable and I highly recommend him"
+    },
+    {
+      "name": "Istiaque Sayed",
+      "reference": "I worked with Tim on the same team for over a year, and he was a great developer to have alongside. He quickly got up to speed on our legacy ETL processes (SSIS, SQL, and .NET) and made updates that were both accurate and timely, which was key for hitting client deadlines.He also did a lot of important work on migrating our login process to Okta, using .NET, Pulumi, and APIs. That project involved plenty of coordination across different teams, and he handled it really well while keeping things moving forward.On top of the technical skills, he’s the kind of teammate who’s always eager to learn and ready to jump in and help others. Any team would benefit from having him on board."
+    },
+    {
+      "name": "Ann Brown",
+      "reference": "Timothy worked as a House Manager for over four years. In his role he supervised at least five staff members at any given time ensuring excellence in all areas of service. Our company provides services in contract with the State of Missouri Department of Mental Health. We are heavily regulated and Timothy always worked well within our guidelines. He always conducted himself professionally, led with confidence and ensured all accountable to him were held to the highest standards. Timothy was compassionate with our clients and never missed a day in his time with us. He was awarded Employee of the Year in his first year with us. Timothy was extremely knowledgeable with all our systems and he was quick to assist anyone who needed guidance. I highly recommend him and expect to see him succeed in any endeavor he chooses to pursue."
+    },
+    {
+      "name": "Chandra S",
+      "reference": "I’ve had the pleasure of working closely with Timothy Barani, and I can confidently say he is an exceptional Senior Full Stack Developer with deep expertise in both Angular and .NET. Timothy consistently demonstrates strong technical backgrounf, problem-solving skills, and the ability to deliver high-quality solutions across the stack.On the front end, Timothy’s mastery of Angular is evident in the way he builds scalable, responsive, and user-friendly applications. He has a great eye for detail and ensures that UI/UX best practices are always met, resulting in seamless user experiences.On the back end, his knowledge of .NET and related technologies allows him to design and implement efficient, maintainable, and secure APIs and services. He’s particularly strong at optimizing database interactions, debugging complex issues, and ensuring systems perform reliably under load.Beyond his technical expertise, Timothy is a true team player. He actively collaborates with colleagues, provides thoughtful code reviews, mentors junior developers, and communicates clearly with stakeholders. His calm, solution-focused approach helps the team stay aligned and productive, even under tight deadlines.Timothy’s combination of technical excellence, leadership, and collaborative spirit makes him an invaluable asset to any engineering team. I would highly recommend him for any senior-level full stack role involving Angular, .NET, and modern software development practices."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Entity Framework"
+    },
+    {
+      "name": ".NET Framework"
+    },
+    {
+      "name": "RSS"
+    },
+    {
+      "name": "Internet Message Access Protocol (IMAP)"
+    },
+    {
+      "name": "Okta Single Sign-On"
+    },
+    {
+      "name": "Critical Thinking"
+    },
+    {
+      "name": "Organization"
+    },
+    {
+      "name": "Communication",
+      "level": "2 endorsements"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "Full-Stack Development",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "TypeScript",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Bootstrap (Framework)"
+    },
+    {
+      "name": "Azure Databricks"
+    },
+    {
+      "name": "Kendo"
+    },
+    {
+      "name": "Web Technologies",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Web Components"
+    },
+    {
+      "name": "SQL",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "C#",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Mkfd"
+    },
+    {
+      "name": "Web Development",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Medical Records"
+    },
+    {
+      "name": "Visual Arts"
+    },
+    {
+      "name": "Web Design"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Medical Terminology"
+    },
+    {
+      "name": "Nonprofit Organizations"
+    },
+    {
+      "name": "TDD",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Customer Service",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Fundraising"
+    },
+    {
+      "name": "Record Keeping",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "API Development"
+    },
+    {
+      "name": "Functional Assessments"
+    },
+    {
+      "name": "WebSocket Communications with Node and Angular"
+    },
+    {
+      "name": "JavaScript",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "HTML",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "CSS",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Visual Basic"
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Visual Basic for Applications (VBA)"
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Adobe Creative Suite"
+    },
+    {
+      "name": "Microsoft SQL Server"
+    },
+    {
+      "name": "Microsoft Azure"
+    },
+    {
+      "name": "Team Leadership",
+      "level": "1 endorsements"
+    },
+    {
+      "name": "Management"
+    },
+    {
+      "name": "Artificial Intelligence for Business"
+    },
+    {
+      "name": "AI Agents"
+    }
+  ],
+  "volunteer": [],
+  "work": [
+    {
+      "endDate": "2025-09",
+      "location": "Cape Girardeau, Missouri",
+      "name": "Vizient, Inc",
+      "position": "Software Engineer",
+      "startDate": "2019-12",
+      "summary": ""
+    },
+    {
+      "endDate": "2019-12",
+      "location": "Cape Girardeau, Missouri",
+      "name": "Catholic Charities of Southern Missouri",
+      "position": "Support Coordinator DD",
+      "startDate": "2018-12",
+      "summary": ""
+    },
+    {
+      "endDate": "2018-12",
+      "location": "",
+      "name": "Grace Reliant Health Services, LLC",
+      "position": "Staff Supervisor",
+      "startDate": "2015-08",
+      "summary": ""
+    },
+    {
+      "endDate": "2015-08",
+      "location": "Cape Girardeau, MO",
+      "name": "Consumer Direct",
+      "position": "Support Staff",
+      "startDate": "2014-07",
+      "summary": ""
+    }
+  ]
+}

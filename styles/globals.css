@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Sora:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@plugin "tailwindcss-animate";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Editorial color palette - warm, sophisticated */
+  --ink: hsl(30 15% 12%);
+  --ink-light: hsl(30 10% 25%);
+  --cream: hsl(40 30% 96%);
+  --cream-dark: hsl(40 20% 92%);
+  --terracotta: hsl(16 65% 52%);
+  --terracotta-dark: hsl(16 70% 42%);
+  --terracotta-light: hsl(16 60% 65%);
+  --slate: hsl(200 20% 40%);
+  --slate-light: hsl(200 15% 60%);
+
+  /* Semantic mappings */
+  --background: var(--cream);
+  --foreground: var(--ink);
+  --card: hsl(40 25% 98%);
+  --card-foreground: var(--ink);
+  --popover: var(--cream);
+  --popover-foreground: var(--ink);
+  --primary: var(--terracotta);
+  --primary-foreground: var(--cream);
+  --secondary: var(--cream-dark);
+  --secondary-foreground: var(--ink);
+  --muted: var(--cream-dark);
+  --muted-foreground: var(--ink-light);
+  --accent: var(--terracotta-light);
+  --accent-foreground: var(--ink);
+  --destructive: hsl(0 72% 51%);
+  --destructive-foreground: var(--cream);
+  --border: hsl(30 15% 85%);
+  --input: hsl(30 15% 85%);
+  --ring: var(--terracotta);
+  --radius: 0.25rem;
+
+  /* Typography */
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Sora', system-ui, sans-serif;
+}
+
+.dark {
+  --ink: hsl(40 30% 96%);
+  --ink-light: hsl(40 20% 80%);
+  --cream: hsl(30 15% 8%);
+  --cream-dark: hsl(30 12% 12%);
+  --terracotta: hsl(16 70% 58%);
+  --terracotta-dark: hsl(16 65% 48%);
+  --terracotta-light: hsl(16 55% 70%);
+  --slate: hsl(200 15% 65%);
+  --slate-light: hsl(200 10% 50%);
+
+  --background: var(--cream);
+  --foreground: var(--ink);
+  --card: hsl(30 12% 10%);
+  --card-foreground: var(--ink);
+  --popover: var(--cream);
+  --popover-foreground: var(--ink);
+  --primary: var(--terracotta);
+  --primary-foreground: hsl(30 15% 8%);
+  --secondary: var(--cream-dark);
+  --secondary-foreground: var(--ink);
+  --muted: var(--cream-dark);
+  --muted-foreground: var(--ink-light);
+  --accent: var(--terracotta-light);
+  --accent-foreground: hsl(30 15% 8%);
+  --border: hsl(30 10% 20%);
+  --input: hsl(30 10% 20%);
+  --ring: var(--terracotta);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-ink: var(--ink);
+  --color-ink-light: var(--ink-light);
+  --color-cream: var(--cream);
+  --color-cream-dark: var(--cream-dark);
+  --color-terracotta: var(--terracotta);
+  --color-terracotta-dark: var(--terracotta-dark);
+  --color-terracotta-light: var(--terracotta-light);
+  --color-slate: var(--slate);
+  --color-slate-light: var(--slate-light);
+  --radius-sm: calc(var(--radius) - 2px);
+  --radius-md: var(--radius);
+  --radius-lg: calc(var(--radius) + 2px);
+  --radius-xl: calc(var(--radius) + 6px);
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+
+  --animate-fade-in: fade-in 0.8s ease-out forwards;
+  --animate-slide-up: slide-up 0.8s ease-out forwards;
+  --animate-slide-left: slide-left 0.6s ease-out forwards;
+  --animate-scale-in: scale-in 0.6s ease-out forwards;
+  --animate-draw-line: draw-line 1.2s ease-out forwards;
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes slide-up {
+    from {
+      opacity: 0;
+      transform: translateY(40px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes slide-left {
+    from {
+      opacity: 0;
+      transform: translateX(60px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes scale-in {
+    from {
+      opacity: 0;
+      transform: scale(0.9);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  @keyframes draw-line {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+  }
+
+  ::selection {
+    background: var(--terracotta);
+    color: var(--cream);
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-body {
+    font-family: var(--font-body);
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .animate-delay-100 { animation-delay: 100ms; }
+  .animate-delay-200 { animation-delay: 200ms; }
+  .animate-delay-300 { animation-delay: 300ms; }
+  .animate-delay-400 { animation-delay: 400ms; }
+  .animate-delay-500 { animation-delay: 500ms; }
+  .animate-delay-600 { animation-delay: 600ms; }
+  .animate-delay-700 { animation-delay: 700ms; }
+  .animate-delay-800 { animation-delay: 800ms; }
+
+  .grain {
+    position: relative;
+  }
+
+  .grain::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+    opacity: 0.03;
+    pointer-events: none;
+    z-index: 1;
+  }
+}
