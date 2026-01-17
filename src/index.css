@@ -24,7 +24,7 @@ body::before {
   pointer-events: none;
 }
 
-/* Decorative corner accents */
+/* Decorative corner accents - hidden on mobile */
 body::after {
   content: "";
   position: fixed;
@@ -37,6 +37,13 @@ body::after {
   opacity: 0.4;
   pointer-events: none;
   z-index: 50;
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  body::after {
+    display: block;
+  }
 }
 
 /* Section dividers */
