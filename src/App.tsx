@@ -379,8 +379,8 @@ function HeroSection() {
         </div>
       </div>
 
-      {/* Enhanced scroll indicator */}
-      <div className="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 opacity-0 animate-fade-in animate-delay-800">
+      {/* Enhanced scroll indicator - hidden on mobile */}
+      <div className="hidden md:flex absolute bottom-12 left-1/2 -translate-x-1/2 flex-col items-center gap-2 opacity-0 animate-fade-in animate-delay-800">
         <span className="text-xs tracking-widest uppercase text-muted-foreground">
           Scroll
         </span>
@@ -1021,7 +1021,7 @@ function Navigation() {
 
   return (
     <nav
-      className={`fixed top-0 right-0 z-50 p-6 transition-all duration-500 ${
+      className={`hidden lg:block fixed top-0 right-0 z-50 p-6 transition-all duration-500 ${
         isScrolled ? "opacity-100 translate-y-0" : "opacity-0 pointer-events-none -translate-y-4"
       }`}
     >
